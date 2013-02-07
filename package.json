@@ -1,0 +1,12 @@
+{
+	"name": "PATHOLOGICAL EDGECASE",
+	"description": "TURNING ASSUMPTIONS INTO ASSHATS",
+	"version": "#1",
+	"main": "wtf.js",
+	"author": "olizilla",
+
+	"dependencies": {
+		"david": "#1",
+	}
+
+"Boom"
